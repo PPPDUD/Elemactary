@@ -23,7 +23,7 @@
    * default EOS theme had some problem with dark mode. 
    * ElementaryX had some blueish accent which i didn't like, so i made my own version.
 
-<b>INSTALLATIN: </b>
+<b>INSTALLATION: </b>
 
    * download the [Version 1.2](https://github.com/saint-13/Elemactary-Dark/releases/download/Elemactary_1.2/Elemactary-Dark-v1.2.zip) or [Version 2.0](https://github.com/saint-13/Elemactary-Dark/releases/download/Elemactary_2.0_BETA/Elemactary-v2.0-Beta.zip)
    * extract it, and put it in: /usr/share/themes 
@@ -31,7 +31,7 @@
 
 hope you like it. 
 
-<b>SCREENSHOTS: Versoin 1.2</b>
+<b>SCREENSHOTS: Version 1.2</b>
 
 <table>
   <tr>
@@ -50,7 +50,7 @@ hope you like it.
   </tr>
 </table>
 
-<b>SCREENSHOTS: Versoin 2.0</b>
+<b>SCREENSHOTS: Version 2.0</b>
 
 <table>
   <tr>
